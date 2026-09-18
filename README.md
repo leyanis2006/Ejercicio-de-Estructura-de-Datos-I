@@ -1,8 +1,10 @@
 # Ejercicio-de-Estructura-de-Datos-I
 Aquí vamos a darle respuestas a los ejercicios dados por el profesor en las conferencias brindadas.
-#ArrayList 
-import java.util.ArrayList;
 
+
+# ArrayList 
+
+import java.util.ArrayList;
 public class ArrayListEx {
     public static void main(String[] args) {
         // Listas de nombres
@@ -23,7 +25,9 @@ public class ArrayListEx {
         System.out.println("Los números de la familia son", + numeros); 
     }
 }
-#LinkedList
+
+
+# LinkedList
 import java.util.LinkedList;
 
 public class LinkedListEx {
