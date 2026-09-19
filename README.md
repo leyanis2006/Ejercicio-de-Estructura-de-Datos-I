@@ -4,9 +4,9 @@ Aquí vamos a darle respuestas a los ejercicios dados por el profesor en las con
 
 # ArrayList 
 
-import java.util.ArrayList;
-public class ArrayListEx {
-    public static void main(String[] args) {
+        import java.util.ArrayList;
+        public class ArrayListEx {
+        public static void main(String[] args) {
         // Listas de nombres
         ArrayList<String> nombres = new ArrayList();
         nombre.add("Carlos");
@@ -28,10 +28,10 @@ public class ArrayListEx {
 
 
 # LinkedList
-import java.util.LinkedList;
+        import java.util.LinkedList;
 
-public class LinkedListEx {
-    public static void main(String[] args) {
+        public class LinkedListEx {
+        public static void main(String[] args) {
         LinkedList<String> nombres = new LinkedList();
 
         nombres.add("Juan");
