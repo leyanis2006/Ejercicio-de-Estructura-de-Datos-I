@@ -24,7 +24,7 @@ Aquí vamos a darle respuestas a los ejercicios dados por el profesor en las con
         // Error al imprimir en la consola porque no se puede imprimir un ArrayList de tipo int
         System.out.println("Los números de la familia son", + numeros); 
     }
-}
+    }
 
 
 # LinkedList
@@ -51,4 +51,4 @@ Aquí vamos a darle respuestas a los ejercicios dados por el profesor en las con
             System.out.println("Los nombres son:" + nombre);
         }
     }
-}
+    }
