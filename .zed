@@ -1,0 +1,14 @@
+// Project-local debug tasks
+//
+// For more documentation on how to configure debug tasks,
+// see: https://zed.dev/docs/debugger
+[
+  {
+    "name": "Java Debugger",
+    "command": "java -agentlib:jdwp=transport=dt_socket,server=y,suspend=n,address=5005 -cp .:lib/* MainClass",
+    "args": [],
+    "cwd": ".",
+    "env": {},
+    "timeout": 0
+  }
+]
