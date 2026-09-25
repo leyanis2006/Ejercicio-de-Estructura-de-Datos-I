@@ -1,8 +1,8 @@
-import java.util.LinkedList;
+       import java.util.LinkedList;
 
-public class LinkedListEx {
-    public static void main(String[] args) {
-        LinkedList<String> nombres = new LinkedList();
+        public class LinkedListEx {
+       public static void main(String[] args) {
+        LinkedList<String> nombres = new.    LinkedList();
 
         nombres.add("Juan");
         nombres.add("Carlos");
